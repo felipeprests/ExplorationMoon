@@ -1,0 +1,13 @@
+C:\Projetos\ExplorationLunar\ExplorationLunar\bin\Debug\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\Projetos\ExplorationLunar\ExplorationLunar\bin\Debug\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\Projetos\ExplorationLunar\ExplorationLunar\bin\Debug\netcoreapp2.0\win10-x64\ExplorationLunar.exe
+C:\Projetos\ExplorationLunar\ExplorationLunar\bin\Debug\netcoreapp2.0\win10-x64\ExplorationLunar.deps.json
+C:\Projetos\ExplorationLunar\ExplorationLunar\bin\Debug\netcoreapp2.0\win10-x64\ExplorationLunar.runtimeconfig.json
+C:\Projetos\ExplorationLunar\ExplorationLunar\bin\Debug\netcoreapp2.0\win10-x64\ExplorationLunar.runtimeconfig.dev.json
+C:\Projetos\ExplorationLunar\ExplorationLunar\bin\Debug\netcoreapp2.0\win10-x64\ExplorationLunar.dll
+C:\Projetos\ExplorationLunar\ExplorationLunar\bin\Debug\netcoreapp2.0\win10-x64\ExplorationLunar.pdb
+C:\Projetos\ExplorationLunar\ExplorationLunar\obj\Debug\netcoreapp2.0\win10-x64\ExplorationLunar.csproj.CoreCompileInputs.cache
+C:\Projetos\ExplorationLunar\ExplorationLunar\obj\Debug\netcoreapp2.0\win10-x64\ExplorationLunar.AssemblyInfoInputs.cache
+C:\Projetos\ExplorationLunar\ExplorationLunar\obj\Debug\netcoreapp2.0\win10-x64\ExplorationLunar.AssemblyInfo.cs
+C:\Projetos\ExplorationLunar\ExplorationLunar\obj\Debug\netcoreapp2.0\win10-x64\ExplorationLunar.dll
+C:\Projetos\ExplorationLunar\ExplorationLunar\obj\Debug\netcoreapp2.0\win10-x64\ExplorationLunar.pdb
